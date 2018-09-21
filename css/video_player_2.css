@@ -1,0 +1,29 @@
+/*https://codepen.io/dudleystorey/pen/vnedg*/
+#video_player {   
+  font-size: 0; background: #000;
+  max-width: 900px;
+  width: 800px;
+  margin: 0 auto;
+}
+#video_container video { 
+  
+  width: 800px;
+  
+  
+}
+#video_player div a { 
+  opacity: .5;
+  transition: 1s opacity; 
+}
+#video_player div video { 
+  width: 100%; height: auto; 
+}
+#liste_videos a.currentvid, #video_player div a:hover, #video_player div a:focus { opacity: 0.4; }
+#liste_videos a img, .thumb{
+  float: left;
+  width: 275px;
+  height: 220px;
+}
+.overflow{
+  overflow: auto;
+}

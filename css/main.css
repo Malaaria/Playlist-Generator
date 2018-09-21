@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'ParchmentMF';
+  src: url('../fonts/ParchmentMF.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/ParchmentMF.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/ParchmentMF.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/ParchmentMF.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/ParchmentMF.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/ParchmentMF.svg#svgParchmentMF') format('svg'); /* Legacy iOS */
+}
+body{
+	padding-top: 40px;
+}
+h1{
+	text-align: center;
+	font-family: "ParchmentMF";
+	font-size: 50pt;
+}
+.add_item{
+	margin-bottom: 20px;
+}
+label{
+	margin-left: 5px;
+}
+ul{
+	margin-top: 20px;
+	list-style-type: none;
+}
+ul.left li {
+	float: left;
+	padding-left: 20px;
+}
+.clear{
+	clear: both;
+}
+.paddingtop50{
+	padding-top: 50px;
+}
+.paddingleft100{
+	padding-left: 50px;
+}
+#send{
+	margin-bottom: 15px;
+	padding-left: 10px;
+}
+.marginbottom20{
+	margin-bottom: 20px;
+}
+#titre_video{
+	margin-bottom: 30px;
+	text-align: center;
+}
+#critere_selection{
+	font-size: 30pt;
+	font-weight: normal;
+	color: #23527c;
+	
+}
+.parchment{
+	font-family: "ParchmentMF";
+	font-size: 20pt;
+	font-weight: bold;
+}
+#lien-edit{
+	padding-top: 25px;
+}
