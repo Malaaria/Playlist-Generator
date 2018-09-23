@@ -1,0 +1,10 @@
+<listePersonnages>
+	<personnage>
+		<nom>Arthur</nom>
+		<acteur>Alexandre Astier</acteur>
+	</personnage>
+	<personnage>
+		<nom>Perceval</nom>
+		<acteur>Franck Pitiot</acteur>
+	</personnage>
+</listePersonnages>

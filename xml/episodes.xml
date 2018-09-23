@@ -1,0 +1,26 @@
+<ListEpisodes>
+	<episode>
+		<numero>LI 001</numero>
+		<personnages>
+			<personnage>Bohort</personnage>
+			<personnage>Karadoc</personnage>
+			<personnage>Arthur</personnage>
+			<personnage>Léodagan</personnage>
+			<personnage>Perceval</personnage>			
+		</personnages>
+		<titre>Les Repentants</titre>
+	</episode>
+	<episode>
+		<numero>LV 001</numero>
+		<personnages>
+			<personnage>Loth</personnage>
+			<personnage>Galessin</personnage>
+			<personnage>Dagonnet</personnage>
+			<personnage>Gauvain</personnage>
+			<personnage>Cologrenant</personnage>
+			<personnage>Arthur</personnage>
+			<personnage>Venec</personnage>
+		</personnages>
+		<titre>Les Repentants</titre>
+	</episode>
+</ListEpisodes>
